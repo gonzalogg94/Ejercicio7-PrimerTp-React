@@ -14,13 +14,12 @@ const EmpleadoRow = ({ arregloEmpleado }) => {
               <h3 className="mt-3">{empleado.fullName}</h3>
               <p className="mb-3">
                 {empleado.title}
-                <Badge bg="info" className="ms-4">
+                <Badge bg="primary" className="mx-5">
                   {empleado.department}
                 </Badge>
               </p>
             </div>
           </Col>
-          <hr />
         </Row>
       ))}
     </div>
