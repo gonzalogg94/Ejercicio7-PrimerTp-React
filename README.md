@@ -1,4 +1,4 @@
-# Lista Colores - Aplicacion web desarollada con React utilizando el local storage
+# Lista Empleados - Aplicacion web desarollada con React.
 
 *Proyecto desarrollado con React*
 
